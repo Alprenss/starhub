@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-  $title[Test]
+$title[Test]
 $description[AAAAAAAAAAA]
 $color[fffff]
-</body>
 
-</html>
